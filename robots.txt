@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://jgelectricalservicesbexley.co.uk/sitemap.xml
